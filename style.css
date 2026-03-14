@@ -112,7 +112,7 @@ body {
   font-size: clamp(3rem, 7vw, 6rem);
   font-weight: 900;
   line-height: 0.9;
-  margin-bottom: 1.2rem;
+  margin-bottom: 3.5rem;
   background: linear-gradient(135deg, var(--text) 40%, var(--gold));
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
